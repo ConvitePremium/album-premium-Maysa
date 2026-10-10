@@ -1,0 +1,12 @@
+ÁLBUM ONLINE V5 — MAYSA 15 ANOS
+Identidade visual: rosa antigo, rosé, dourado rosé e lilás suave.
+ID do evento: maysa-15-anos
+Cadastre esse mesmo ID no Painel Admin.
+
+ATENÇÃO: assets/moldura.png é a moldura de exemplo herdada da V5.
+Substitua por uma moldura PNG transparente personalizada da Maysa
+antes de entregar o álbum aos convidados.
+
+Publique estes arquivos na raiz de um novo repositório com GitHub Pages.
+Não altere as configurações Supabase existentes.
+Teste upload, visualização e download antes do evento.
